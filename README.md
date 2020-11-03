@@ -16,6 +16,6 @@ Dataset. arXiv preprint arXiv:2005.06465.)
 
 ## Steps to run the code
 - First download the images from the above mentioned websites. They are open-source so the images are freely available
-- Run preprocess.m in the preprocess folder of the repository to preprocess the images. This is a MATLAB file. 
+- Run preprocess.m in the Preprocessing folder of the repository to preprocess the images. This is a MATLAB file. 
 - The platform to train the models and run the predictions used was Google Colab. Hence, images are uploaded to a drive and the notebooks are mounted from the drive. 
 - Run each IPYNB under the train folder to train the models and predict the masks.  
