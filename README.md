@@ -1,10 +1,10 @@
 # COVID-19-Segmentation
 
 > **Authors:** 
-> [Tharun J Iyer]
-> [Dr. Alex Noel Joseph Raj] 
-> [Sushil Ghildiyal]
-> {Dr. Ruban N]
+> Tharun J Iyer
+> Dr. Alex Noel Joseph Raj 
+> Sushil Ghildiyal
+> Dr. Ruban N
 
 ## Introduction
 - This repository provides code for the research "_**Performance Analysis of Lightweight CNN Models to Segment Infectious Lung Tissue of COVID-19 cases from Tomographic Images**_"
